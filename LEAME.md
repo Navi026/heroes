@@ -1,6 +1,6 @@
-#Objetivo del repositorio
+# Objetivo del repositorio
 
-Este proycto se encarga de anejar los planes de la liga de la justicia
+Este proyecto se encarga de anejar los planes de la liga de la justicia
 
 ## Notas
 
